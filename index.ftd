@@ -178,7 +178,7 @@ secondTitle: developer
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: I'm passionate DSA learer and currently exploring web3 and MERN stack Development.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -190,7 +190,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:sharmadevansh563@gmial.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -223,7 +223,7 @@ link: https://instagram.com/devansh_0555
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:sharmadevansh563@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
